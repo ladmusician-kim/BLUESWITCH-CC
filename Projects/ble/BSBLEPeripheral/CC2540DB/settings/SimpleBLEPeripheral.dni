@@ -1,0 +1,53 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=129939991
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[SfrWindow]
+Show=1 1
+Sort=4 0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_LOG" "{$PROJ_DIR$\..\..\..\..\..\..\..\..\WINDOWS\system32}.576.5" 0 0 0 0 "" 0 "" 0
+Bp1=_ "STD_LOG" "{$PROJ_DIR$\..\..\..\..\..\BlueSwitch_cc2540_140928_uart소스 포함}.235.7" 0 0 0 0 "" 0 "" 0
+Bp2=_ "STD_LOG" "{$PROJ_DIR$\..\..\..\..\..\..\..\..\WINDOWS\system32}.260.3" 0 0 0 0 "" 0 "intEnable" 1
+Bp3=_ "STD_LOG" "{$PROJ_DIR$\..\Source\parsingData.c}.89.15" 0 0 0 0 "" 0 "" 0
+Bp4=_ "STD_LOG" "{$PROJ_DIR$\..\Source\BSBLEPeripheral.c}.747.7" 0 0 0 0 "" 0 "" 0
+Bp5=_ "STD_LOG" "{$PROJ_DIR$\..\Source\parsingData.c}.87.15" 0 0 0 0 "" 0 "" 0
+Bp6=_ "STD_LOG" "{$PROJ_DIR$\..\Source\parsingData.c}.60.11" 0 0 0 0 "" 0 "" 0
+Bp7=_ "STD_LOG" "{$PROJ_DIR$\..\Source\parsingData.c}.153.17" 0 0 0 0 "" 0 "" 0
+Bp8=_ "STD_LOG" "{$PROJ_DIR$\..\Source\BSBLEPeripheral.c}.721.5" 0 0 0 0 "" 0 "" 0
+Bp9=_ "STD_LOG" "{$PROJ_DIR$\..\Source\BSBLEPeripheral.c}.747.7" 0 0 0 0 "" 0 "" 0
+Bp10=_ "STD_LOG" "{$PROJ_DIR$\..\Source\BSBLEPeripheral.c}.617.7" 0 0 0 0 "" 0 "" 0
+Bp11=_ "STD_LOG" "{$PROJ_DIR$\..\Source\BSBLEPeripheral.c}.609.5" 0 0 0 0 "" 0 "" 0
+Bp12=_ "STD_LOG" "{$PROJ_DIR$\..\..\Profiles\Roles\peripheral.c}.245.13" 0 0 0 0 "" 0 "" 0
+Bp13=_ "STD_LOG" "{$PROJ_DIR$\..\Source\BSBLEPeripheral.c}.942.9" 0 0 0 0 "" 0 "" 0
+Bp14=_ "STD_LOG" "{$PROJ_DIR$\..\..\Profiles\Roles\peripheral.c}.778.9" 0 0 0 0 "" 0 "" 0
+Bp15=_ "STD_LOG" "{$PROJ_DIR$\..\..\Profiles\Roles\peripheral.c}.770.9" 0 0 0 0 "" 0 "" 0
+Bp16=_ "STD_LOG" "{$PROJ_DIR$\..\..\Profiles\Roles\peripheral.c}.757.5" 0 0 0 0 "" 0 "" 0
+Bp17=_ "STD_LOG" "{$PROJ_DIR$\..\Source\BSBLEPeripheral.c}.887.3" 1 0 0 0 "" 0 "" 0
+Count=18
+[ChipconEmu]
+Stop timers on halt=1
+Leave target running=1
+[Aliases]
+A0=_ "C:\Texas Instruments\BLE-CC254x-1.4.0\Projects\ble\BSBLEPeripheral\Source\OSAL_BSBLEPeripheral.c" "C:\Users\SangBeom\Desktop\BlueSwitch_cc2540\Projects\ble\BSBLEPeripheral\Source\OSAL_BSBLEPeripheral.c"
+Count=1
+SuppressDialog=0
